@@ -12,7 +12,7 @@ GO是21世纪的C语言
 
 * 解释型语言和编译型语言的区别
 
-![image-20211203221544642](/Users/beam/Library/Application Support/typora-user-images/image-20211203221544642.png)
+![image-20211203221544642](https://static01.imgkr.com/temp/3a5fa0c1de774d988619e3d067a1b766.png)
 
 ### Go语言开发环境搭建
 
@@ -24,15 +24,15 @@ GO是21世纪的C语言
 
 推荐的个人组织结构如下：
 
-![IMG_837A1F3AFFF0-1](/Users/beam/Desktop/Go语言学习/Go语法基础/Go语法基础.assets/IMG_837A1F3AFFF0-1.jpeg)
+![IMG_837A1F3AFFF0-1](![image-20211203221544642](https://static01.imgkr.com/temp/7493d414987a4419aca97960bd36833f.jpeg)
 
 更高级的方法推荐如下：
 
-![IMG_1496](/Users/beam/Desktop/Go语言学习/Go语法基础/Go语法基础.assets/IMG_1496.jpg)
+![IMG_1496](https://static01.imgkr.com/temp/a8d66adeca6c491aa189758fd4fecef5.jpg)
 
 企业如下：
 
-![IMG_5A45EF96AD86-1](/Users/beam/Desktop/Go语言学习/Go语法基础/Go语法基础.assets/IMG_5A45EF96AD86-1.jpeg)
+![IMG_5A45EF96AD86-1](https://static01.imgkr.com/temp/478c0b9a09604f62ad93cda8d9fbc0d7.jpeg)
 
 
 
